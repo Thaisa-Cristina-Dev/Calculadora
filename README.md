@@ -4,7 +4,7 @@ Uma calculadora é um dispositivo que permite a resolução de cálculos matemá
 Existem vários tipos de calculadora de acordo com a complexidade das operações que podem ser resolvidas.
 Com uma calculadora básica, é possível realizar adição, subtração, divisão e multiplicação, entre outras operações simples. 
 
-# Sobre o projeto
+## Sobre o projeto
 
 Tkinter - GUI em Python
 O módulo Tkinter é praticamente um padrão da linguagem Python, para programarmos interface gráfica.
@@ -20,13 +20,20 @@ O módulo Tkinter widgets:
 
 
 ## Referência de valor de cor para Visual Studio
- - Ao criar uma nova interface do usuário, você pode usar cores semelhantes da interface do usuário existente para escolher as cores de cada tema principal e o nome da cor do sistema para esse elemento Alto Contraste temas.
+Ao criar uma nova interface do usuário, você pode usar cores semelhantes da interface do usuário existente para escolher as cores de cada tema principal e o nome da cor do sistema para esse elemento Alto Contraste temas.
+
+### cores
+- cor1 = "#1e1f1e" #preto
+- cor2 = "#feffff"  #branco
+- cor3 = "#38576b" #azul
+- cor4 = "#ECEFF1"  #cinza
+- cor5 = "#FFAB40"  #laranja
 
 ## Layout do Projeto
 
 ![Calculadora ](https://user-images.githubusercontent.com/90491687/138222076-21195d45-c7c6-49f5-aed5-52ee872e7ae5.jpg)
 
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 - PyCharm
 - Biblioteca: Tkinter
